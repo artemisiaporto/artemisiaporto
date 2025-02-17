@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently studying Software Development at Brigham Young University
 
 - These are the languages/tools with which I have familiarity:
-- [![My Skills](https://skillicons.dev/icons?i=python,html,css,js,c#)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,c#" />
+  </a>
+</p>
 
 - 📫 How to reach me: www.linkedin.com/in/artemisia-porto
