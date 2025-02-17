@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+🔭 I’m currently working as a Geophysicist at Consultoria Geofisica EEG
+🌱 I’m currently studying Software Development at Brigham Young University
+
+These are the languages/tools with which I have familiarity:
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,c#)](https://skillicons.dev)
+
+📫 How to reach me: www.linkedin.com/in/artemisia-porto
